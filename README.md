@@ -5,16 +5,25 @@ _Fast, interactive video segment removal, overlays, captions, and advanced audio
 
 ## Table of Contents
 
-- [Overview](#Overview)
-- [Features](#features)    
-- [Requirements](#requirements)    
-- [Installation](#installation)  
-- [Quick Start](#quick-start)    
-- [Usage](#usage)   
-- [EDL Format](#edl-format)   
-- [Audio Options](#audio-options)   
-- [Rendering & Export](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#rendering--export)   
-- [License](#license)
+- [Overview](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#overview)
+    
+- [Features](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#features)
+    
+- [Requirements](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#requirements)
+    
+- [Installation](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#installation)
+    
+- [Quick Start](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#quick-start)
+    
+- [Usage](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#usage)
+    
+- [EDL Format](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#edl-format)
+    
+- [Audio Options](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#audio-options)
+    
+- [Rendering & Export](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#rendering--export)
+    
+- [License](https://www.perplexity.ai/search/tell-me-about-editing-with-mov-wr4CClvyRaer2JHWViu2rw#license)
     
 
 ## Overview
@@ -108,7 +117,6 @@ bash
 3. **Graphics & Captions:**
     
     - Add overlays or captions before or after segment removal.
-    - For best results with font files keep the font file in the working directory rather than system fonts.
         
 4. **Audio Options:**
     
@@ -165,3 +173,5 @@ PyClipper supports modern EDLs (Edit Decision Lists) in CSV format:
 - **Multi-threaded transcoding** for fast rendering
     
 - **Safe overwrite checks** for output files
+
+--
