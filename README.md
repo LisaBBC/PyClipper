@@ -108,6 +108,7 @@ bash
 3. **Graphics & Captions:**
     
     - Add overlays or captions before or after segment removal.
+    - For best results with font files keep the font file in the working directory rather than system fonts.
         
 4. **Audio Options:**
     
