@@ -53,7 +53,7 @@ _Fast, interactive video segment removal, overlays, captions, and advanced audio
 
 - **Python 3.8+**
 - **FFmpeg** (must be installed and in your system PATH)
-- **Probably needs to be windows**
+- **Probably needs Windows (for now)**
     
 ## **Required Python Modules**
 
