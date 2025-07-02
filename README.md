@@ -57,7 +57,7 @@ _Fast, interactive video segment removal, overlays, captions, and advanced audio
     
 ## **Required Python Modules**
 
-- - `MoviePy 2.x+` (which itself depends on `numpy` and `imageio`)
+-  `MoviePy 2.x+` (which itself depends on `numpy` and `imageio`)
     
 - `numpy`
     
