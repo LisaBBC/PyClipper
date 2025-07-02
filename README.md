@@ -46,13 +46,14 @@ _Fast, interactive video segment removal, overlays, captions, and advanced audio
     
 - **Safe, config-driven workflow** with overwrite protection
     
-- **Cross-platform:** Windows, Mac, Linux
+
     
 
 ## Requirements
 
 - **Python 3.8+**
 - **FFmpeg** (must be installed and in your system PATH)
+- **Probably needs to be windows**
     
 ## **Required Python Modules**
 
